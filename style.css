@@ -1,12 +1,12 @@
 
-                    div.pagepadding {  
+                    div.page-padding {  
             padding-top: 50px;  
             padding-right: 300px;  
             padding-bottom: 0.25in;  
             padding-left: 300px;  
                     }
 
-                    .rcorners2 {
+                    .rounded-container-corners {
             border-radius: 25px;
             border: 10px solid; 
             width: 200px;
@@ -14,24 +14,24 @@
             margin-right: 20px
                     } 
 
-                    .leo-style {
-                    color: dodgerblue;
+                    .leo-img-style {
+                    color: #00a5f8;
                     float: left;
                     }
             
-                    .don-style {
-                    color:plum;
+                    .don-img-style {
+                    color: #bb66eb;
                     float: right;
                     margin-left: 10px
                     }   
                     
-                    .mich-style {
-                    color: orange;
+                    .mike-img-style {
+                    color: #ff882f;
                     float: left;
                     } 
 
-                    .raph-style {
-                    color:red;
+                    .raph-img-style {
+                    color:#FF0000;
                     float: right;
                     margin-left: 10px
                     } 
@@ -44,25 +44,28 @@
             font-family: Helvetica;
             }
 
-                    .title-name {
+                    .turtle-name {
             font-size: 30px;
             font-family: Helvetica;
+            font-weight: bold;
+            margin: 0px;
+            padding: 0px;
             }
 
                     .leo-name {
-            color: dodgerblue;
+            color: #00a5f8;
             }
 
                     .don-name {
-            color: plum;
+            color: #bb66eb;
             }
 
-                    .mich-name {
-            color:orange;
+                    .mike-name {
+            color:#ff882f;
             }
 
                     .raph-name {
-            color: red;
+            color: #FF0000;
             }
 
                     img.rounded-corners-left {
@@ -79,32 +82,32 @@
                 height:200px;
                 }
 
-                    .image-container {
+                    .image-container-header-photo {
             display: flex;
             justify-content: center;
             width:1400px;
             height:832px;
             }
 
-            .hr {
+            hr {
             height:0px;
             border-top: 3px solid 
             }
              
             .hr-leo {
-                color: dodgerblue
+                color: #00a5f8
             }
 
             .hr-don {
-                color: plum
+                color: #bb66eb
             }
 
-            .hr-mich {
-                color: orange
+            .hr-mike {
+                color: #ff882f
             }
 
             .hr-raph {
-                color: red
+                color: #FF0000
             }
 
             .leo a {
@@ -112,13 +115,27 @@
             }
 
             .don a {
-                color: plum
+                color: #bb66eb
             }
 
-            .mich a {
-                color: orange
+            .mike a {
+                color: #ff882f
             }
 
             .raph a {
-                color:red
+                color:#FF0000
             }
+
+            .leo {
+                padding-bottom:100px;
+            }
+
+            .don {
+                padding-bottom:100px;
+            }
+
+            .mike {
+                padding-bottom:100px;
+            }
+
+        
