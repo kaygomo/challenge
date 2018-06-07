@@ -1,0 +1,124 @@
+
+                    div.pagepadding {  
+            padding-top: 50px;  
+            padding-right: 300px;  
+            padding-bottom: 0.25in;  
+            padding-left: 300px;  
+                    }
+
+                    .rcorners2 {
+            border-radius: 25px;
+            border: 10px solid; 
+            width: 200px;
+            height: 200px;
+            margin-right: 20px
+                    } 
+
+                    .leo-style {
+                    color: dodgerblue;
+                    float: left;
+                    }
+            
+                    .don-style {
+                    color:plum;
+                    float: right;
+                    margin-left: 10px
+                    }   
+                    
+                    .mich-style {
+                    color: orange;
+                    float: left;
+                    } 
+
+                    .raph-style {
+                    color:red;
+                    float: right;
+                    margin-left: 10px
+                    } 
+            
+               
+
+                    .main-content {
+            color: black;
+            font-size: 14px;
+            font-family: Helvetica;
+            }
+
+                    .title-name {
+            font-size: 30px;
+            font-family: Helvetica;
+            }
+
+                    .leo-name {
+            color: dodgerblue;
+            }
+
+                    .don-name {
+            color: plum;
+            }
+
+                    .mich-name {
+            color:orange;
+            }
+
+                    .raph-name {
+            color: red;
+            }
+
+                    img.rounded-corners-left {
+            border-radius: 15px;
+            float:left;
+            width:200px;
+            height:200px;
+            }
+
+                    img.rounded-corners-right {
+                border-radius: 15px;
+                float:left;
+                width:200px;
+                height:200px;
+                }
+
+                    .image-container {
+            display: flex;
+            justify-content: center;
+            width:1400px;
+            height:832px;
+            }
+
+            .hr {
+            height:0px;
+            border-top: 3px solid 
+            }
+             
+            .hr-leo {
+                color: dodgerblue
+            }
+
+            .hr-don {
+                color: plum
+            }
+
+            .hr-mich {
+                color: orange
+            }
+
+            .hr-raph {
+                color: red
+            }
+
+            .leo a {
+                color: dodgerblue
+            }
+
+            .don a {
+                color: plum
+            }
+
+            .mich a {
+                color: orange
+            }
+
+            .raph a {
+                color:red
+            }
