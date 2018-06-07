@@ -1,18 +1,22 @@
 
-                    div.page-padding {  
+    body {
+    font-family: Helvetica, Arial, sans-serif
+    } 
+                    
+        div.page-padding {  
             padding-top: 50px;  
             padding-right: 300px;  
             padding-bottom: 0.25in;  
             padding-left: 300px;  
-                    }
+            }
 
-                    .rounded-container-corners {
-            border-radius: 25px;
-            border: 10px solid; 
-            width: 200px;
-            height: 200px;
-            margin-right: 20px
-                    } 
+            .rounded-container-corners {
+                border-radius: 25px;
+                border: 10px solid; 
+                width: 200px;
+                height: 200px;
+                margin-right: 20px
+                } 
 
                     .leo-img-style {
                     color: #00a5f8;
@@ -38,104 +42,94 @@
             
                
 
-                    .main-content {
-            color: black;
-            font-size: 14px;
-            font-family: Helvetica;
-            }
+                        .main-content {
+                        color: #000000;
+                        font-size: 14px;   
+                        }
 
-                    .turtle-name {
-            font-size: 30px;
-            font-family: Helvetica;
-            font-weight: bold;
-            margin: 0px;
-            padding: 0px;
-            }
+                        .turtle-name {
+                        font-size: 30px;
+                        font-weight: bold;
+                        margin: 0;
+                        padding: 0;
+                        }
 
-                    .leo-name {
-            color: #00a5f8;
-            }
+                        .leo-name {
+                        color: #00a5f8;
+                        }
 
-                    .don-name {
-            color: #bb66eb;
-            }
+                        .don-name {
+                        color: #bb66eb;
+                        }
 
-                    .mike-name {
-            color:#ff882f;
-            }
+                        .mike-name {
+                        color:#ff882f;
+                        }
 
-                    .raph-name {
-            color: #FF0000;
-            }
+                        .raph-name {
+                        color: #FF0000;
+                        }
 
-                    img.rounded-corners-left {
-            border-radius: 15px;
-            float:left;
-            width:200px;
-            height:200px;
-            }
+                            img.rounded-corners-left {
+                            border-radius: 15px;
+                            float:left;
+                            width:200px;
+                            height:200px;
+                            }
 
-                    img.rounded-corners-right {
-                border-radius: 15px;
-                float:left;
-                width:200px;
-                height:200px;
-                }
+                            img.rounded-corners-right {
+                            border-radius: 15px;
+                            float:left;
+                            width:200px;
+                            height:200px;
+                            }
 
-                    .image-container-header-photo {
-            display: flex;
-            justify-content: center;
-            width:1400px;
-            height:832px;
-            }
+                            .image-container-header-photo {
+                            display: flex;
+                            justify-content: center;
+                            width:1400px;
+                            height:832px;
+                            }
 
-            hr {
-            height:0px;
-            border-top: 3px solid 
-            }
+                                hr {
+                                height:0;
+                                border-top: 3px solid 
+                                }
              
-            .hr-leo {
-                color: #00a5f8
-            }
+                                .hr-leo {
+                                color: #00a5f8
+                                }
 
-            .hr-don {
-                color: #bb66eb
-            }
+                                .hr-don {
+                                color: #bb66eb
+                                }
 
-            .hr-mike {
-                color: #ff882f
-            }
+                                .hr-mike {
+                                color: #ff882f
+                                }
 
-            .hr-raph {
-                color: #FF0000
-            }
+                                .hr-raph {
+                                color: #FF0000
+                                }
 
-            .leo a {
-                color: dodgerblue
-            }
+                                .leo a {
+                                color: #00a5f8
+                                }
 
-            .don a {
-                color: #bb66eb
-            }
+                                .don a {
+                                color: #bb66eb
+                                }
 
-            .mike a {
-                color: #ff882f
-            }
+                                .mike a {
+                                color: #ff882f
+                                }
 
-            .raph a {
-                color:#FF0000
-            }
+                                .raph a {
+                                color: #FF0000
+                                }
 
-            .leo {
-                padding-bottom:100px;
-            }
-
-            .don {
-                padding-bottom:100px;
-            }
-
-            .mike {
-                padding-bottom:100px;
-            }
+                                    .section-padding {
+                                    padding-bottom:100px;
+                                    }
 
         
