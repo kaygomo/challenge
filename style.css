@@ -70,22 +70,6 @@
                                     height:0;
                                     border-top: 3px solid 
                                 }
-             
-                                .hr-leo {
-                                    color: #00a5f8
-                                }
-
-                                .hr-don {
-                                    color: #bb66eb
-                                }
-
-                                .hr-mike {
-                                    color: #ff882f
-                                }
-
-                                .hr-raph {
-                                    color: #FF0000
-                                }
 
                                     /* These 'color-text' classes are for anything on the page that uses one of the four main colors*/
                                     .blue-text {
