@@ -1,0 +1,123 @@
+
+
+.header-container {
+    background: #469654;
+    display: flex;
+    justify-content: center;
+}
+
+.body-margin {
+    margin-top: 30px;
+}
+
+.page-padding {  
+    margin: 50px 300px;
+    max-width: 800px;
+   
+} 
+
+.main-content {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px; 
+    color: black
+}
+
+.name-font {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px; 
+    margin: 0;
+    padding: 0;
+
+}
+
+hr {
+    height: 0px;
+    border-top: 3px solid;
+}
+
+/* Parent container for Leo and Mike */
+.right-container {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+
+/* Parent container for Don and Raph */
+.left-container {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+
+
+/*Formatting for Leo and Mike*/
+.right-child-element {
+    
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/*Formatting for Don and Raph*/
+.left-child-element {
+    
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;   
+}
+
+
+/*Puts turtle name. hr tag, and bio in a column*/
+.stack-bio {
+  
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+/*Rounded-image-left and -right create rounded image corners*/
+.rounded-image-right {
+    border-radius: 15px;
+    width:250px;
+    height:250px;
+    margin-right: 20px
+}
+
+.rounded-image-left {
+    border-radius: 15px;
+    width:250px;
+    height:250px;
+    margin-left: 20px
+}
+
+/*rounded-container-border creates border for images*/
+.rounded-container-border {
+    border-radius: 25px;
+    border: 10px solid;
+    height: 250px;
+    margin-right: 20px; 
+    width: 250px;
+} 
+
+
+ /* These 'color-text' classes are for anything on the page that uses one of the four main colors*/
+.blue-text {
+    color: #00a5f8
+}
+
+.purple-text {
+    color: #bb66eb
+}
+
+.orange-text {
+    color: #ff882f
+}
+
+.red-text {
+    color: #FF0000
+}
+
